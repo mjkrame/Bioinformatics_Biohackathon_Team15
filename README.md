@@ -9,7 +9,7 @@
 - Adam Gatch
 
 ## Task A: Connecting with the team
-On November 30th, the team's repository was created and shared with all group members. An email was sent introducing the project, outlining the various roles available, and requesting each member's preferences based on their comfort level and experience. The email also invited suggestions for diseases to study.
+On November 30th, the team's repository was created and shared with all group members. An email was sent introducing the project, outlining the various roles available, and requesting each member's preferences based on their comfort level and experience. The email also invited suggestions for diseases to study. Email collaboration and discussion continued from November 30th until December 2nd as the team decided on the disease of interest and assigned roles.
 
 ## Task B: Selecting a disease to study
 
