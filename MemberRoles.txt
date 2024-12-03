@@ -1,0 +1,9 @@
+Mackenzie Kramer: Team GitHub repository creation, initiation of team communications, and identification of tissue-specific eQTLs for Huntington's Disease
+
+Michaela Mulvey: Helped with disease of interest identification, helped construct and write the hypothesis, and created the design for the experiment
+
+Will McIntyre: Used IntAct to find proteins that interact with HTT. Built PPI on Cytoscape. Also contributed to disease of interest identification
+
+Adam Gatch: Aided in disease identification and worked to find a gene that underlied Huntington's (HTT). Also contributed to the hypothesis generation. 
+
+Eve Joseph: Analyzed and explained the PPI in task D. Aided in hypothesis generation.
