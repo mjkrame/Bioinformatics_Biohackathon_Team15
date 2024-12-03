@@ -19,7 +19,9 @@ HD is caused by mutation of the HTT gene, which is located on chromosome 4 and e
 
 ## Task D: Build a protein:protein interaction (PPI) network using the known gene protein product(s) as seeds
 A PPI network represents physical interactions between proteins using information gathered from experiments such as yeast two-hybrid screens, co-immunoprecipitation, or computational predictions. Edges in the network indicate direct physical contact or functional association between proteins. PPIs provide significant information into functional relationships, protein complexes, and signaling pathways. 
-Image of PPI:
+
+**Protein:Protein Interaction Network:**
+![Protein:Protein Interaction Network Image](https://github.com/mjkrame/Bioinformatics_Biohackathon_Team15/raw/main/Cytoscape_Image.jpg?raw=true)
 
 ## Task E: Find tissue-specific eQTLs DNA polymorphisms that could alter the expression of the candidate genes
 Find tissue-specific eQTLs DNA polymorphisms that could alter the expression of the candidate genes
