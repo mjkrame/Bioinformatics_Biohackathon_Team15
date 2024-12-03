@@ -23,7 +23,32 @@ HD is caused by mutation of the HTT gene, which is located on chromosome 4 and e
 Find tissue-specific eQTLs DNA polymorphisms that could alter the expression of the candidate genes
 An eQTL, is a genetic locus that explains a fraction of the genetic variance of a gene expression phenotype. In other words, eQTLs are genetic variants that influence the expression levels of one or more genes. In the context of the human organism, eQTLs play a crucial role in understanding how genetic variations contribute to differences in gene expression among individuals. This is important because variations in gene expression can lead to differences in traits, including susceptibility to diseases such as HD.
 
-Regarding the HTT gene, significant eQTLS identified include SNP id's 
+Regarding the HTT gene, after focusing on eQTLs within brain tissues the significant (p-value < e-05) eQTLS identified include those with SNP ID's:
+* rs13106262
+* rs10007398
+* rs28616835
+* rs112435590
+* rs113331544
+* rs10009935
+
+Of those significant eQTLs, SNP ID:rs13106262 is specific to the basal ganglia and SNP ID:rs10007398 is specific to the cortex which are more of interest for our research hypothesis. Information for these eQTLs is below:
+* Gencode Id                  ENSG00000197386.14
+Gene Symbol                                HTT
+Variant Id                chr4_3563897_G_C_b38
+SNP Id                              rs13106262
+P-Value                                    0.0
+NES                                      -0.23
+Tissue         Brain - Caudate (basal ganglia)
+
+* Gencode Id       ENSG00000197386.14
+Gene Symbol                     HTT
+Variant Id     chr4_3522136_A_G_b38
+SNP Id                   rs10007398
+P-Value                    0.000007
+NES                            0.11
+Tissue               Brain - Cortex
+
+Given this information, presence of the first eQTL (SNP rs13106262) shows a decrease in HTT expression in the basal ganglia. In contrast, the presence of the second eQTL (SNP rs10007398) is associated with an increase in HTT expression in the cortex of the brain. 
 
 ## Task F: Construct an hypothesis that the genes caused the disease phenotype by mechanism X
 The mutant huntingtin protein (mHtt) causes Huntington's disease phenotypes primarily through abnormal interactions with transcription factors in the nucleus, resulting in widespread transcriptional dysregulation of genes critical for neuronal function and survival.
