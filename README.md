@@ -20,6 +20,10 @@ HD is caused by mutation of the HTT gene, which is located on chromosome 4 and e
 ## Task D: Build a protein:protein interaction (PPI) network using the known gene protein product(s) as seeds
 
 ## Task E: Find tissue-specific eQTLs DNA polymorphisms that could alter the expression of the candidate genes
+Find tissue-specific eQTLs DNA polymorphisms that could alter the expression of the candidate genes
+An eQTL, is a genetic locus that explains a fraction of the genetic variance of a gene expression phenotype. In other words, eQTLs are genetic variants that influence the expression levels of one or more genes. In the context of the human organism, eQTLs play a crucial role in understanding how genetic variations contribute to differences in gene expression among individuals. This is important because variations in gene expression can lead to differences in traits, including susceptibility to diseases such as HD.
+
+Regarding the HTT gene, significant eQTLS identified include SNP id's 
 
 ## Task F: Construct an hypothesis that the genes caused the disease phenotype by mechanism X
 The mutant huntingtin protein (mHtt) causes Huntington's disease phenotypes primarily through abnormal interactions with transcription factors in the nucleus, resulting in widespread transcriptional dysregulation of genes critical for neuronal function and survival.
