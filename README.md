@@ -22,3 +22,4 @@ HD is caused by mutation of the HTT gene, which encodes the protein huntingtin. 
 ## Task E: Find tissue-specific eQTLs DNA polymorphisms that could alter the expression of the candidate genes
 
 ## Task F: Construct an hypothesis that the genes caused the disease phenotype by mechanism X
+The mutant huntingtin protein (mHtt) causes Huntington's disease phenotypes primarily through abnormal interactions with transcription factors in the nucleus, resulting in widespread transcriptional dysregulation of genes critical for neuronal function and survival.
