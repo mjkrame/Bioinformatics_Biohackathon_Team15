@@ -52,3 +52,5 @@ Given this information, presence of the first eQTL (SNP rs13106262) shows a decr
 
 ## Task F: Construct an hypothesis that the genes caused the disease phenotype by mechanism X
 The mutant huntingtin protein (mHtt) causes Huntington's disease phenotypes primarily through abnormal interactions with transcription factors in the nucleus, resulting in widespread transcriptional dysregulation of genes critical for neuronal function and survival.
+
+The differential expression of HTT gene, modulated by tissue-specific eQTLs, contributes to the Huntington's disease phenotype through a mechanism of regional transcriptional imbalance, leading to selective neuronal vulnerability and progressive neurodegeneration.
