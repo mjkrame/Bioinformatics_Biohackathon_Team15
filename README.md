@@ -23,6 +23,8 @@ A PPI network represents physical interactions between proteins using informatio
 **Protein:Protein Interaction Network:**
 ![Protein:Protein Interaction Network Image](https://github.com/mjkrame/Bioinformatics_Biohackathon_Team15/raw/main/Cytoscape_Image.jpg?raw=true)
 
+As seen in the PPI, HTT has many blue dots representing different proteins HTT gene interacts with. This demonstrates its heavy involvement in numerous iochemical pathways, which if altered, could lead to some of the pheontypic changes we see in HD. 
+
 ## Task E: Find tissue-specific eQTLs DNA polymorphisms that could alter the expression of the candidate genes
 Find tissue-specific eQTLs DNA polymorphisms that could alter the expression of the candidate genes
 An eQTL, is a genetic locus that explains a fraction of the genetic variance of a gene expression phenotype. In other words, eQTLs are genetic variants that influence the expression levels of one or more genes. In the context of the human organism, eQTLs play a crucial role in understanding how genetic variations contribute to differences in gene expression among individuals. This is important because variations in gene expression can lead to differences in traits, including susceptibility to diseases such as HD.
@@ -55,6 +57,4 @@ Tissue               Brain - Cortex
 Given this information, presence of the first eQTL (SNP rs13106262) shows a decrease in HTT expression in the basal ganglia. In contrast, the presence of the second eQTL (SNP rs10007398) is associated with an increase in HTT expression in the cortex of the brain. 
 
 ## Task F: Construct an hypothesis that the genes caused the disease phenotype by mechanism X
-The mutant huntingtin protein (mHtt) causes Huntington's disease phenotypes primarily through abnormal interactions with transcription factors in the nucleus, resulting in widespread transcriptional dysregulation of genes critical for neuronal function and survival.
-
-The differential expression of HTT gene, modulated by tissue-specific eQTLs, contributes to the Huntington's disease phenotype through a mechanism of regional transcriptional imbalance, leading to selective neuronal vulnerability and progressive neurodegeneration.
+The mutant huntingtin protein (mHtt) causes Huntington's disease phenotypes primarily through abnormal interactions with transcription factors in the nucleus, resulting in widespread transcriptional dysregulation of genes critical for neuronal function and survival. This effect is compounded by the differential expression of HTT gene, modulated by tissue-specific eQTLs, contributes to the Huntington's disease phenotype through a mechanism of regional transcriptional imbalance, leading to selective neuronal vulnerability and progressive neurodegeneration. Together, these mechanisms drive the selective neuronal vulnerability and progressive neuronal degeneration characteristics of the disease. 
